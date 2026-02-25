@@ -9,7 +9,7 @@ Professional portfolio website showcasing my experience, projects, and skills in
 
 ## 🌟 Live Demo
 
-**Portfolio URL:** [Coming Soon - Will be deployed on Emergent]
+**Portfolio URL:** [Coming Soon - Will be deployed]
 
 ## 📋 About
 
