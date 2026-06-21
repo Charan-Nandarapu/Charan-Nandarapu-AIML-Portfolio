@@ -9,7 +9,7 @@ Professional portfolio website showcasing my experience, projects, and skills in
 
 ## 🌟 Live Demo
 
-**Portfolio URL:** [Coming Soon - Will be deployed]
+**Portfolio URL:** ![Visit Here](https://charann.me/)
 
 ## 📋 About
 
